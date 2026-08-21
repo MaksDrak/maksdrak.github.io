@@ -144,6 +144,27 @@ section { padding: 96px 0; }
 .nav-links a.active::after { width: 100%; }
 .nav-links a.active { color: var(--text); }
 
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--text-muted);
+  transition: border-color var(--transition), color var(--transition);
+  flex-shrink: 0;
+}
+.lang-toggle:hover { border-color: var(--accent-teal); color: var(--accent-teal); }
+
 .nav-toggle {
   display: none;
   flex-direction: column;
