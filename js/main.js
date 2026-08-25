@@ -12,7 +12,7 @@ if (navToggle && navLinks) {
   });
 }
 
-// Klikalne moduły (rozwijane karty) — oferta i pasje
+// Klikalne moduły (rozwijane karty) — pasje
 document.querySelectorAll('[data-toggle-card]').forEach(card => {
   card.addEventListener('click', () => {
     card.classList.toggle('open');

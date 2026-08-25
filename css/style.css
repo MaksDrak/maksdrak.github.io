@@ -242,67 +242,6 @@ html[lang="pl"] .hero p {
 }
 .reveal.is-visible { opacity: 1; transform: translateY(0); }
 
-/* ===== Oferta — moduły klikalne ===== */
-.services-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 20px;
-}
-
-.service-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 24px;
-  cursor: pointer;
-  transition: box-shadow var(--transition), border-color var(--transition), transform var(--transition);
-}
-.service-card:hover {
-  box-shadow: var(--shadow);
-  transform: translateY(-3px);
-  border-color: var(--accent);
-}
-
-.service-card .icon {
-  width: 42px;
-  height: 42px;
-  border-radius: 10px;
-  background: var(--accent-soft);
-  color: var(--accent);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.2rem;
-  margin-bottom: 16px;
-}
-
-.service-card h3 {
-  font-size: 1.05rem;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-}
-
-.service-card .plus {
-  color: var(--text-muted);
-  transition: transform var(--transition);
-  font-weight: 300;
-  font-size: 1.3rem;
-}
-.service-card.open .plus { transform: rotate(45deg); color: var(--accent-teal); }
-
-.service-card .details {
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.35s ease, margin-top var(--transition);
-  color: var(--text-muted);
-  font-size: 0.92rem;
-}
-.service-card.open .details {
-  max-height: 200px;
-  margin-top: 12px;
-}
-
 /* ===== Portfolio ===== */
 .portfolio-grid {
   display: grid;
