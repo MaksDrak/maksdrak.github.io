@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://maksdrak.github.io/</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksdrak.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksdrak.github.io/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksdrak.github.io/"/>
+  </url>
+  <url>
+    <loc>https://maksdrak.github.io/index-en.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksdrak.github.io/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksdrak.github.io/index-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksdrak.github.io/"/>
+  </url>
+  <url>
+    <loc>https://maksdrak.github.io/pasje.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksdrak.github.io/pasje.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksdrak.github.io/pasje-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksdrak.github.io/pasje.html"/>
+  </url>
+  <url>
+    <loc>https://maksdrak.github.io/pasje-en.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://maksdrak.github.io/pasje.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://maksdrak.github.io/pasje-en.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://maksdrak.github.io/pasje.html"/>
+  </url>
+</urlset>

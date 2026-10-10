@@ -409,7 +409,7 @@ html[lang="pl"] .hero p {
   font-size: 1.4rem;
   margin-bottom: 16px;
 }
-.passion-card h3 {
+.passion-card h2 {
   display: flex;
   justify-content: space-between;
   align-items: center;

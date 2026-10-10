@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maksdrak.github.io/sitemap.xml
